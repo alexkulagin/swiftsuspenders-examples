@@ -1,4 +1,4 @@
-package example
+package example.ss01
 {
 	import flash.display.Sprite;
 	
