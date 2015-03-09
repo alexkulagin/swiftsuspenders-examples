@@ -16,6 +16,14 @@ package example.ss02
 			// creates an instance DifferentRequests and automatically injects into it injections
 			var custom:DifferentRequests = injector.getInstance(DifferentRequests) as DifferentRequests;
 				custom.getInfo();
+				
+			/**
+			 *	getInfo outputs:
+			 *	simpleFromVar: [object SimpleClass]
+			 *	simpleFromConstructor: [object SimpleClass]
+			 *	simpleFromMethod: [object SimpleClass]
+			 *	simpleFromSetter: [object SimpleClass]
+			 */
 		}
 	}
 }
