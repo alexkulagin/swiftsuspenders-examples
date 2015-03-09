@@ -13,7 +13,7 @@ package example.ss02
 				injector.map(SimpleClass);
 				injector.map(DifferentRequests);
 			
-			// creates an instance DifferentRequests and automatically injects into it injections
+			// creates DifferentRequests and automatically injects into it injections
 			var custom:DifferentRequests = injector.getInstance(DifferentRequests) as DifferentRequests;
 				custom.getInfo();
 				
