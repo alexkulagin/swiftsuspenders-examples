@@ -2,7 +2,7 @@ package example.ss01
 {
 	import flash.display.Sprite;
 	import org.swiftsuspenders.Injector;
-	import example.ss01.helper.CustomClass;
+	import example.ss01.helper.AnotherClass;
 	import example.ss01.helper.SimpleClass;
 	
 	public class ExampleSS01 extends Sprite
@@ -26,7 +26,7 @@ package example.ss01
 			
 			
 			// inject into custom
-			var custom:CustomClass = new CustomClass();
+			var custom:AnotherClass = new AnotherClass();
 			
 			trace(custom.simple); 			// output: null
 			injector.injectInto(custom);

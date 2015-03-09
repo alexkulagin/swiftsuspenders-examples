@@ -1,6 +1,6 @@
 package example.ss01.helper
 {
-	public class CustomClass
+	public class AnotherClass
 	{
 		// injection point (request)
 		[Inject] public var simple:SimpleClass;
