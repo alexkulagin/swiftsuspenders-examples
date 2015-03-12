@@ -11,6 +11,7 @@
 ✓  –  Satisfy dependencies using singleton
 ✓  –  Satisfy dependencies using value
 ✓  –  Satisfy dependencies using providers
+
 ✕  –  Named and optional injection requests
 ✕  –  Type conversion for certain requests
 ✕  –  Usage [PostConstruct] and [PreDestroy] metatags (lifecycle management)
