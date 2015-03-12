@@ -1,6 +1,7 @@
 
 
-    ## SIMPLE IMMERSION TO SWIFTSUSPENDERS:
+    SIMPLE IMMERSION TO SWIFTSUSPENDERS:
+
 
     ✕  SS01  –  Injection into itself and into another class
     ✕  SS02  –  Injection into var, setter, method and constructor
