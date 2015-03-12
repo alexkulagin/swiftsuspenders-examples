@@ -7,7 +7,7 @@
 ```
 
 ✓  –  Injection into itself and into another class
-✕  –  Injection into var, setter, method and constructor
+✓  –  Injection into var, setter, method and constructor
 ✕  –  Satisfy dependencies using singleton
 ✕  –  Satisfy dependencies using value
 ✕  –  Satisfy dependencies using providers
