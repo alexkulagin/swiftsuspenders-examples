@@ -3,8 +3,15 @@ package examples.ss06
     import examples.SimpleClass;
     
     
+    
     // constructor requests shall be located outside class body
     [Inject(name = "constructorValueA", name = "constructorValueB")]
+    
+    /**
+     *  When using named dependencies for constructor injection, the metadata has to be 
+     *  placed above the class definition, not above the constructor. This is an unfortunate 
+     *  restriction the Flash Player imposes.
+     */
     
     public class DifferentNamedRequest
     {
