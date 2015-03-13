@@ -18,6 +18,13 @@ package examples.ss01
         
         [Inject] public var simple:SimpleClass;
         
+        /**
+         *  Injection points apply to inheriting classes just as they do to the class 
+         *  they are defined for. Thus, it’s possible to define injection points for 
+         *  a base class and use them with all derived classes (which in turn might 
+         *  specify additional injection points).
+         */
+        
         
         
         
