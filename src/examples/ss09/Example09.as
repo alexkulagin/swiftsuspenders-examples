@@ -1,7 +1,6 @@
 package examples.ss09
 {
     import flash.display.Sprite;
-    
     import org.swiftsuspenders.Injector;
     
     
