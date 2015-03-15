@@ -11,6 +11,7 @@
 - [Example 08](https://github.com/alexkulagin/swiftsuspenders-examples/tree/master/src/examples/ss08) – Usage `[PostConstruct]` and `[PreDestroy]` metatags (lifecycle management).
 - [Example 09](https://github.com/alexkulagin/swiftsuspenders-examples/tree/master/src/examples/ss09) – Chain of injection.
 - [Example 10](https://github.com/alexkulagin/swiftsuspenders-examples/tree/master/src/examples/ss10) – Chaining multiple injectors.
+- [Example 11](https://github.com/alexkulagin/swiftsuspenders-examples/tree/master/src/examples/ss11) – Defining local and shared scope for mappings.
 
 #### TODO LIST
 ```
@@ -25,8 +26,8 @@
 ✓  –  Usage [PostConstruct] and [PreDestroy] metatags (lifecycle management)
 ✓  –  Chain of injection
 ✓  –  Chaining multiple injectors
+✓  –  Defining local and shared scope for mappings
   
-✕  –  Defining local and shared scope for mappings
 ✕  –  Defining soft mappings
 ✕  –  Minimalist example of model & controller
 
