@@ -23,7 +23,7 @@
 ✓  –  Type conversion for certain requests
 ✓  –  Usage [PostConstruct] and [PreDestroy] metatags (lifecycle management)
 ✓  –  Chain of injection
-✕  –  Chaining multiple injectors
+✓  –  Chaining multiple injectors
   
 ✕  –  Defining local and shared scope for mappings
 ✕  –  Defining soft mappings
