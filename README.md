@@ -10,6 +10,7 @@
 - [Example 07](https://github.com/alexkulagin/swiftsuspenders-examples/tree/master/src/examples/ss07) – Type conversion for certain requests.
 - [Example 08](https://github.com/alexkulagin/swiftsuspenders-examples/tree/master/src/examples/ss08) – Usage `[PostConstruct]` and `[PreDestroy]` metatags (lifecycle management).
 - [Example 09](https://github.com/alexkulagin/swiftsuspenders-examples/tree/master/src/examples/ss09) – Chain of injection.
+- [Example 10](https://github.com/alexkulagin/swiftsuspenders-examples/tree/master/src/examples/ss10) – Chaining multiple injectors.
 
 #### TODO LIST
 ```
