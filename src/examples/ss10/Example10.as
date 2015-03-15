@@ -27,6 +27,12 @@ package examples.ss10
                 injector.map(String, "color").toValue("white");
                 injector.map(Part);
             
+
+            /**
+             *  Child Injectors can have their own mappings, complementing 
+             *  or overriding the parent mappings.
+             */
+            
             // injector A
             var childInjectorA:Injector = injector.createChildInjector();
                 childInjectorA.map(String, "modification").toValue("A");
