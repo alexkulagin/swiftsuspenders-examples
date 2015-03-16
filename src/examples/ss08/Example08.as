@@ -7,7 +7,7 @@ package examples.ss08
     
     
     /**
-     * Usage [PostConstruct] and [PreDestroy] metatags (lifecycle management)
+     * Lifecycle management – usage [PostConstruct] and [PreDestroy]
      */
     
     public class Example08 extends Sprite
