@@ -1,7 +1,7 @@
 
 # SwiftSuspenders 2 examples
 
-[SwiftSuspenders 2](https://github.com/robotlegs/robotlegs-framework/blob/master/lib/Swiftsuspenders-v2.1.0.swc)
+Examples requires [SwiftSuspenders.swc](https://github.com/robotlegs/robotlegs-framework/blob/master/lib/Swiftsuspenders-v2.1.0.swc)
 
 #### Examples:
 
