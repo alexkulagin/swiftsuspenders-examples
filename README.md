@@ -1,6 +1,5 @@
 <br><br>
 
-<<<<<<< HEAD
 # Immersion into SwiftSuspenders 2
 <br>
 
