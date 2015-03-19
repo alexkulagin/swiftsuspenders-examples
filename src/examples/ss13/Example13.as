@@ -48,6 +48,18 @@ package examples.ss13
             // creates and launches simple controller
             _injector.getInstance(SimpleController);
             
+            
+            /**
+             *  output:
+             *  
+             *  ┌────────────────────────────────────┐
+             *  │
+             *  │  #1 controller is ready
+             *  │  #2 model is ready
+             *  │
+             *  └─>>>  please press key "U" ╳╳╳╳╳╳
+             *  
+             */
         }
     }
 }
